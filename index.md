@@ -4,7 +4,7 @@
 - More about me on [LinkedIn](https://www.linkedin.com/in/kurounseung){:target="_blank"}
 
 ## Hobbies
-- Home improvement projects
+- [Home improvement projects](https://www.youtube.com/watch?v=O2_jIPMfDfA){:target="_blank"}
 - Sports: skiing, hiking, badminton, soccer
 - [Travel & Photography](https://www.instagram.com/kuroun/){:target="_blank"}
 - [Transcendental Meditation](https://www.tm.org/){:target="_blank"}
