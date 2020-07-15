@@ -13,7 +13,7 @@
 - [Gin Gonic](https://gin-gonic.com/){:target="_blank"}
 - [IP Insights](https://docs.aws.amazon.com/sagemaker/latest/dg/ip-insights.html){:target="_blank"}
 - Leetcode, Hackerrank, Project Euler
-- [Google map and photo](https://www.google.com/maps/d/viewer?mid=1ecoBmcBcDrMcDmbrIDIn4d5qokAeCbaD&ll=36.95197716410227%2C-102.56080660043943&z=5){:target="_blank"}
+- Hackathons
 
 ## Archives 
 - More archives on [medium](https://medium.com/@kuroun_seung){:target="_blank"}
