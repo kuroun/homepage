@@ -16,7 +16,7 @@
 - Hackathons
 
 ## Archives 
-- [Random name picker](http://names-service.pololibro.com/names/rolling-dice) built by Gin Gonic
+- [Random name picker](http://names-service.pololibro.com/names/rolling-dice){:target="_blank"} built by Gin Gonic
 - More archives on [medium](https://medium.com/@kuroun_seung){:target="_blank"}
 
 
