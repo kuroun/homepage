@@ -5,12 +5,11 @@
 - More about me on [LinkedIn](https://www.linkedin.com/in/kurounseung){:target="_blank"}
 
 ## Hobbies
-- Home improvement projects.[See how I turn the drywall into magnetic whiteboard](https://www.youtube.com/watch?v=O2_jIPMfDfA).{:target="_blank"}, don't recommend :P
-- Sports:
- - Skiing green slope, see how skillfull I am LOL.
- - Hiking. My most favorited hikeing so far was at Glacier Point, Yosemite.
- - Badminton. My wife is my partner.
- - Soccer, rarely play but watch mostly highlights matches, especially Manchester United in EPL. My favorite national club is Germany. One of the most savage match I have ever watched is [Brazil 1-7 German](https://www.youtube.com/watch?v=aE4BdIP6bvc&ab_channel=FIFATV){:target="_blank"}.
+- Home DIYs.[See how I turn the drywall into magnetic whiteboard](https://www.youtube.com/watch?v=O2_jIPMfDfA){:target="_blank"}, don't recommend :P
+- Skiing green slope. See how skillfull I am, LOL - [At Brian Head, CO](https://gopro.com/v/DbqWZL4z9O4eR){:target="_blank"}. At [Mount Rose, CA](https://gopro.com/v/2Rly9XNwMGqdk){:target="_blank"}
+- Hiking. My most favorite hiking so far was at [Glacier Point, Yosemite](https://gopro.com/v/dMvwNe5nV1nbd){:target="_blank"}
+- Badminton. My wife is my partner for double match.
+- Soccer. I rarely play but watch mostly highlights matches, especially Manchester United in EPL. My favorite national club is Germany. One of the most savage matches I have ever watched is [Brazil 1-7 German](https://www.youtube.com/watch?v=aE4BdIP6bvc&ab_channel=FIFATV){:target="_blank"}
 - [Travel & Photography](https://www.instagram.com/kuroun/){:target="_blank"}
 - [Transcendental Meditation](https://www.tm.org/){:target="_blank"}
 
