@@ -18,6 +18,7 @@
 - [IP Insights](https://docs.aws.amazon.com/sagemaker/latest/dg/ip-insights.html){:target="_blank"}
 - Leetcode, Hackerrank, Project Euler
 - Hackathons
+- Cryto currency & blockchain technology
 
 ## Archives
 - [Random name picker](http://names-service.pololibro.com/names/rolling-dice){:target="_blank"} built by Gin Gonic
