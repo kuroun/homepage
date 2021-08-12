@@ -19,6 +19,7 @@
 - Leetcode, Hackerrank, Project Euler
 - Hackathons
 - Cryto currency & blockchain technology
+- Entrepreneurship
 
 ## Archives
 - [Random name picker](http://names-service.pololibro.com/names/rolling-dice){:target="_blank"} built by Gin Gonic
