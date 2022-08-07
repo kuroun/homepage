@@ -9,7 +9,7 @@
 - Hiking
 - Skiing
 - Badminton
-- [Writing](https://kurounseung.medium.com){:target="_blank"}.
+- [Writing](https://kurounseung.medium.com){:target="_blank"}
 - [Travel & Photography](https://www.instagram.com/sk_studio_and_photography/){:target="_blank"}
 - [Transcendental Meditation](https://www.tm.org/){:target="_blank"}
 
