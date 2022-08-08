@@ -17,7 +17,7 @@
 - Entrepreneurship
 - Hackathons
 - Leetcode, Hackerrank, Project Euler
-- Cryto currency & blockchain technology
+- Cryto currency & blockchain technology. [My NFT store](https://opensea.io/sk_studio_and_photography){:target="_blank"}
 - Kubernetes
 
 ## Archives
