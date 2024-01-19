@@ -20,6 +20,7 @@
 - AI
 
 ## Archives
+- [Remote Entity Ruby Gem](https://rubygems.org/gems/remote_entity){:target="_blank"}
 - [My NFT store](https://opensea.io/sk_studio_and_photography){:target="_blank"}
 - [Friendly Timestamp Ruby Gem (Opensource)](https://rubygems.org/gems/friendly_timestamp){:target="_blank"}
 - [Design Pattern Cheatsheet](https://kurounseung.medium.com/design-pattern-cheatsheet-7389072558f2){:target="_blank"}
