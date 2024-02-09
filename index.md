@@ -15,8 +15,6 @@
 ## Interests
 - Entrepreneurship
 - Hackathons
-- Leetcode, Hackerrank, Project Euler
-- Cryto currency & blockchain technology
 - AI
 
 ## Archives
